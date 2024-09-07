@@ -3,5 +3,5 @@ Financial Analysis
 There are 86 months.
 The total Profit/Losses is: 22564198
 The average change in Profit/Loses is: -8311.105882352942
-The greatest Profit increase was 1862002 on Aug-16.
+The greatest Profit increase was  1862002 on Aug-16.
 The greatest Profit decrease was -1825558 on Feb-14.
